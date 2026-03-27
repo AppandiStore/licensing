@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "licensing",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d60e1873-fe08-43d6-8970-495802ef6666",
+			"database_name": "ServerLicense"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
